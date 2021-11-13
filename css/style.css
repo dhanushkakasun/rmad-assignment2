@@ -1,0 +1,116 @@
+.top-image{
+    position: relative;
+    width: vw;
+    height: 500px;
+    
+
+}
+.welcome-text{
+    position: absolute;
+    color: #a36029;
+    top: 130px;
+    left: 500px;
+
+}
+.image-text{
+    position: absolute;
+    color: #a36029;
+    top: 180px;
+    left: 200px;
+
+}
+.image-button{
+    position: absolute;
+    color: #a36029;
+    top: 230px;
+    left: 580px;
+    opacity: 0.9;
+    cursor: pointer;
+    width: 120px;
+    height: 30px;
+
+}
+.image-button:hover{
+    background-color: #a36029;
+    color: black;
+    
+    
+
+}
+.bottom-image{
+    width: vw;
+    height: 200px;
+
+    background-color: #a36029;
+}
+.bi-text{
+    position: absolute;
+    color: white;
+    left: 50px;
+    right: 50px;
+    font-size: 18px;
+
+}
+.center{
+    width: vw;
+    height: 200px;
+
+    background-color: #c7d1d0;
+}
+.center-text{
+    position: absolute;
+    color: #a36029;
+    left: 50px;
+    right: 50px;
+    font-size: 18px;
+
+}
+.bottom{
+    position: relative;
+    width: vw;
+    height: 200px;
+    display: flex;
+    
+
+}
+.bottom-left{
+    position: relative; 
+    flex: 1;
+    background-color: #a36029;
+    color: white;
+
+
+}
+.bottom-center{
+    flex: 1;
+    color:#a36029;
+}
+.bottom-right{
+    
+    flex: 1;
+    background-color: #a36029;
+    color: white;
+}
+.bl-text{
+    position: absolute;
+    left: 10px;
+    right: 20px;
+    font-size: 15px;
+
+}
+.bc-text{
+    position: relative;
+    left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    
+
+}
+.br-text{
+    position: relative;
+    left: 10px;
+    right: 10px;
+    font-size: 15px;
+    padding-right: 10px;
+
+}
